@@ -1,7 +1,7 @@
 # Hello, I'm Nicholas Cooper
 ## Also called Nick
-**I hope to learn wahtever you teach
-*I play badminton
+**I hope to learn wahtever you teach**
+*I play badminton*
 
 * list1
 * list2
